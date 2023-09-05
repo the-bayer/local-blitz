@@ -5,6 +5,7 @@ specifiers:
   "@blitzjs/next": 2.0.0-beta.32
   "@blitzjs/rpc": 2.0.0-beta.32
   "@next/bundle-analyzer": 12.0.8
+  "@next/env": 13.4.19
   "@testing-library/jest-dom": 5.16.3
   "@types/node": 18.11.9
   "@types/react": 18.0.25
@@ -31,6 +32,7 @@ dependencies:
   "@blitzjs/auth": 2.0.0-beta.32_6xewz7k7tjzb5ehryxzjuwkziu
   "@blitzjs/next": 2.0.0-beta.32_7m3vkoj3wezse5a6wrjp5acbwq
   "@blitzjs/rpc": 2.0.0-beta.32_7m3vkoj3wezse5a6wrjp5acbwq
+  "@next/env": 13.4.19
   blitz: 2.0.0-beta.32_t2onre2iphfojnae77env6h7am
   next: 13.4.5_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
@@ -2113,6 +2115,13 @@ packages:
       - bufferutil
       - utf-8-validate
     dev: true
+
+  /@next/env/13.4.19:
+    resolution:
+      {
+        integrity: sha512-FsAT5x0jF2kkhNkKkukhsyYOrRqtSxrEhfliniIq0bwWbuXLgyt3Gv0Ml+b91XwjwArmuP7NxCiGd++GGKdNMQ==,
+      }
+    dev: false
 
   /@next/env/13.4.5:
     resolution:
